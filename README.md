@@ -7,6 +7,7 @@
 - ⚡ Fun fact: <i>There are Australian Aboriginal languages that don't have relative direction (left, right, etc) and instead use
   absolute cardinal direction instead. They can have a North and a South hand or an East and a West hand.</i>
 
+[![MY Skills](https://skillicons.dev/icons?i=cs,cpp,py,java,dotnet,github,html,css,js,visualstudio,vscode,androidstudio,eclipse,windows,ubuntu&theme=dark)](https://skillicons.dev)
 <!---
 franklin-piper/franklin-piper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
